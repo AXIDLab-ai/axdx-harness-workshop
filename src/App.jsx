@@ -390,8 +390,8 @@ export default function AXDXHarnessWorkshopBuilder() {
             <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
               <div>
                 <p className="text-sm font-bold uppercase tracking-[0.2em] text-slate-400">Workshop App MVP</p>
-                <h1 className="mt-2 text-3xl font-black tracking-tight text-slate-950 md:text-4xl">하네스 엔지니어링 실습 앱</h1>
-                <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-600">슬라이드형 강의자료를 참가자가 직접 입력하고 산출물을 내려받는 웹 앱으로 전환했습니다.</p>
+                <h1 className="mt-2 text-3xl font-black tracking-tight text-slate-950 md:text-4xl">AXDX 바이브 코딩 X 하네스 엔지니어링 실습 앱</h1>
+                <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-600">강의 슬라이드를 참조하며, 참가자가 직접 입력하고 산출물을 내려받는 웹 앱을 도구로 사용하세요.</p>
               </div>
               <div className="flex flex-wrap gap-2">
                 <SmallButton variant="ghost" onClick={previous}>이전</SmallButton>
@@ -427,7 +427,7 @@ export default function AXDXHarnessWorkshopBuilder() {
               </div>
               <div className="mt-6 rounded-3xl bg-slate-50 p-5 ring-1 ring-slate-200">
                 <h3 className="font-bold text-slate-900">운영 원칙</h3>
-                <p className="mt-2 text-sm leading-6 text-slate-600">설명은 짧게, 실습은 바로, 실패는 함께 디버깅합니다. 이 앱은 강사가 설명하는 도구가 아니라 참가자가 결과물을 만드는 작업대입니다.</p>
+                <p className="mt-2 text-sm leading-6 text-slate-600">설명은 짧게, 실습은 바로, 실패는 함께 디버깅합니다. 이 앱은 참가자가 직접 결과물을 만드는 작업대입니다.</p>
               </div>
             </Section>
           )}
