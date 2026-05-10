@@ -391,7 +391,7 @@ export default function AXDXHarnessWorkshopBuilder() {
               <div>
                 <p className="text-sm font-bold uppercase tracking-[0.2em] text-slate-400">Workshop App MVP</p>
                 <h1 className="mt-2 text-3xl font-black tracking-tight text-slate-950 md:text-4xl">AXDX 바이브 코딩 X 하네스 엔지니어링 실습 앱</h1>
-                <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-600">한국공학대 강송희 교수:강의 슬라이드를 참조하며, 참가자가 직접 입력하고 산출물을 내려받는 웹 앱을 도구로 사용하세요.</p>
+                <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-600">한국공학대 강송희 교수:강의 슬라이드를 참조하며, 참가자가 직접 입력하고 산출물을 내려받는 웹 앱 도구로 사용하세요.</p>
               </div>
               <div className="flex flex-wrap gap-2">
                 <SmallButton variant="ghost" onClick={previous}>이전</SmallButton>
